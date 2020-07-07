@@ -4,7 +4,8 @@ metadata:
 projects:
   - name: vertx-health-checks-example-redhat
     source:
-      type: zip
+      type: git
+      branch: master
       location: 'https://github.com/fasho/console-java-simple.git'
 components:
   - type: chePlugin
