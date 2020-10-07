@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  generateName: vertx-health-checks-
+  generateName: from-devfile-
 projects:
   - name: vertx-health-checks-example-redhat
     source:
